@@ -14,7 +14,7 @@ iPhone --> NavegadorInternet
   <<interface>> ReprodutorMusical 
   ReprodutorMusical : +tocar()
   ReprodutorMusical : +pausar()
-  ReprodutorMusical : +selecionarMusica()
+  ReprodutorMusical : +selecionarMusica(String musica)
 
 class AparelhoTelefonico
 <<interface>> AparelhoTelefonico
